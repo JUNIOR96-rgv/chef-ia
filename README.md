@@ -24,4 +24,7 @@ Este projeto segue as melhores práticas de segurança:
 - `.gitignore` configurado para não expor credenciais sensíveis.
 
 ---
+## 📲 Download
+Você pode baixar o APK para testar diretamente no seu Android aqui: [Baixar APK](https://expo.dev/artifacts/eas/txs6YqzHMdw35onov6qBXW.apk)
+
 Desenvolvido por [Seu Nome ou JUNIOR96-rgv] 🚀
